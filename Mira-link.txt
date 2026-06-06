@@ -1,0 +1,3 @@
+https://miro.com/app/board/uXjVG4gRKHE=/
+
+В каждой user story и job story описаны сценарии, примечания, критерии приемки и примеры.
