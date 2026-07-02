@@ -80,7 +80,7 @@
 Она отражает обмен информацией между пациентом, врачом, лабораторией и мобильным приложением.
 
 <p align="center">
-  <img src="images/dfd-context.png" width="900">
+  <img src="dfd-context.png" width="900">
 </p>
 
 ---
